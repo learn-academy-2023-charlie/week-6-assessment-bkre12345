@@ -4,9 +4,9 @@
 
 Select the following as confirmation that the files in this repository are complete.
 
-- [ ] Coding Challenges
-- [ ] Coding Concepts
-- [ ] Interview Questions
+- [✅] Coding Challenges
+- [✅] Coding Concepts
+- [🤔] Interview Questions
 
 ### 📝 Feedback
 
